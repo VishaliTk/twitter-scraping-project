@@ -1,5 +1,11 @@
-# twitter-scraping-project
-# twitter scraping 
+# Twitter-Scraping-Project
+
+# Demo:
+  Demo video in Linkedin:https://www.linkedin.com/feed/update/urn:li:activity:7041734833370238976/
+  URL for my twitter scraping app:https://tough-suits-rule-35-233-156-111.loca.lt
+  google colab link(original file is there):https://colab.research.google.com/drive/1zvxm5Xtt8V73_igRRupl7uhk7FpJ3IH7
+
+# Twitter Scraping 
 Scraping the data from the twitter using snscrape library,streamlit framework and mongodb database.scraped data are stored in the mongodb database.
 the data can be able to download as a csv file and a json file.to scrape the data we have to use both keyword or hastag..
 
