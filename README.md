@@ -38,5 +38,8 @@ the new tweet in order to retrive the tweet information correctly
   The scraped data from the mongodb database is downloaded as csv file or a json file formats as per requirement..
   # Demo 
   Demo video in Linkedin:https://www.linkedin.com/feed/update/urn:li:activity:7041734833370238976/
+  URL for my twitter scraping app:https://tough-suits-rule-35-233-156-111.loca.lt
+
+
   
 
